@@ -1,0 +1,45 @@
+
+name: Test PushPlus WeChat
+
+on:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send WeChat test notification
+        env:
+          PUSHPLUS_TOKEN: ${{ secrets.PUSHPLUS_TOKEN }}
+        run: |
+          python3 - <<'PY'
+          import os
+          import json
+          import urllib.request
+
+          token = os.environ.get("PUSHPLUS_TOKEN")
+          if not token:
+              raise SystemExit("PUSHPLUS_TOKEN is missing")
+
+          payload = {
+              "token": token,
+              "title": "Arc'teryx 新品监控测试成功",
+              "content": "这条消息由 GitHub Actions 发送。微信通知通道已连接成功。",
+              "template": "txt",
+              "channel": "wechat"
+          }
+
+          request = urllib.request.Request(
+              "https://www.pushplus.plus/send",
+              data=json.dumps(payload).encode("utf-8"),
+              headers={"Content-Type": "application/json"},
+              method="POST"
+          )
+
+          with urllib.request.urlopen(request, timeout=20) as response:
+              result = json.load(response)
+
+          print("PushPlus response:", result.get("code"), result.get("msg"))
+          if str(result.get("code")) != "200":
+              raise SystemExit("PushPlus notification failed")
+          PY
