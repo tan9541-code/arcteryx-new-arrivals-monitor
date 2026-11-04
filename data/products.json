@@ -414,11 +414,6 @@
     "url": "https://labelsfashion.com/products/kyanite-jck-m-x000008447-mongoos",
     "source": "Labels Fashion - Page 1"
   },
-  "https://labelsfashion.com/products/beta-jkt-m-x000010868-seasalt": {
-    "name": "Beta Jacket M",
-    "url": "https://labelsfashion.com/products/beta-jkt-m-x000010868-seasalt",
-    "source": "Labels Fashion - Page 1"
-  },
   "https://labelsfashion.com/products/atom-vst-m-x000009559-mongoose": {
     "name": "Atom Vest M",
     "url": "https://labelsfashion.com/products/atom-vst-m-x000009559-mongoose",
@@ -492,7 +487,7 @@
   "https://labelsfashion.com/products/atom-sv-hdy-m-x000009902-black": {
     "name": "Atom SV Hoody M",
     "url": "https://labelsfashion.com/products/atom-sv-hdy-m-x000009902-black",
-    "source": "Labels Fashion - Page 2"
+    "source": "Labels Fashion - Page 1"
   },
   "https://labelsfashion.com/products/atom-hoody-x000009902-cloud": {
     "name": "Atom Hoody",
@@ -517,6 +512,11 @@
   "https://labelsfashion.com/products/bird-head-tq-x000006756-ltrn-apro": {
     "name": "Bird Head Torque",
     "url": "https://labelsfashion.com/products/bird-head-tq-x000006756-ltrn-apro",
+    "source": "Labels Fashion - Page 2"
+  },
+  "https://labelsfashion.com/products/beta-jkt-m-x000010868-seasalt": {
+    "name": "Beta Jacket M",
+    "url": "https://labelsfashion.com/products/beta-jkt-m-x000010868-seasalt",
     "source": "Labels Fashion - Page 2"
   },
   "https://labelsfashion.com/products/kyanite-hdy-m-x000008446-black": {
