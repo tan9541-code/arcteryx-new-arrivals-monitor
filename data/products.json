@@ -399,11 +399,6 @@
     "url": "https://labelsfashion.com/products/thorium-hdy-m-x000010657-black",
     "source": "Labels Fashion - Page 1"
   },
-  "https://labelsfashion.com/products/therme-down-jkt-m-x000009915-black": {
-    "name": "Therme Down Jacket M",
-    "url": "https://labelsfashion.com/products/therme-down-jkt-m-x000009915-black",
-    "source": "Labels Fashion - Page 1"
-  },
   "https://labelsfashion.com/products/therme-down-jkt-m-x000009915-mongoose": {
     "name": "Therme Down Jacket M",
     "url": "https://labelsfashion.com/products/therme-down-jkt-m-x000009915-mongoose",
@@ -492,11 +487,16 @@
   "https://labelsfashion.com/products/atom-hoody-x000009902-cloud": {
     "name": "Atom Hoody",
     "url": "https://labelsfashion.com/products/atom-hoody-x000009902-cloud",
-    "source": "Labels Fashion - Page 2"
+    "source": "Labels Fashion - Page 1"
   },
   "https://labelsfashion.com/products/thorium-hdy-m-x000010657-seasalt": {
     "name": "Thorium Hoody M",
     "url": "https://labelsfashion.com/products/thorium-hdy-m-x000010657-seasalt",
+    "source": "Labels Fashion - Page 2"
+  },
+  "https://labelsfashion.com/products/therme-down-jkt-m-x000009915-black": {
+    "name": "Therme Down Jacket M",
+    "url": "https://labelsfashion.com/products/therme-down-jkt-m-x000009915-black",
     "source": "Labels Fashion - Page 2"
   },
   "https://labelsfashion.com/products/kragg-ctn-ls-x000009714-24k-black": {
