@@ -104,11 +104,6 @@
     "url": "https://vallgatan12.com/en/products/arcteryx-kragg-cotton-logo-ss-m-24k-black",
     "source": "Vallgatan 12 - Page 1"
   },
-  "https://vallgatan12.com/en/products/arcteryx-satoro-merino-toque-mongooseblack": {
-    "name": "Satoro Merino Toque Mongoose/Black",
-    "url": "https://vallgatan12.com/en/products/arcteryx-satoro-merino-toque-mongooseblack",
-    "source": "Vallgatan 12 - Page 1"
-  },
   "https://vallgatan12.com/en/products/arcteryx-index-10-gear-organizer-24k-black": {
     "name": "Index 10 Gear Organizer 24K Black",
     "url": "https://vallgatan12.com/en/products/arcteryx-index-10-gear-organizer-24k-black",
@@ -184,6 +179,11 @@
     "url": "https://vallgatan12.com/en/products/arcteryx-beta-sl-jacket-m-black",
     "source": "Vallgatan 12 - Page 1"
   },
+  "https://vallgatan12.com/en/products/arcteryx-norvan-ld-4-gtx-shoes-m-blackblack": {
+    "name": "Norvan Ld 4 Gtx Shoes M Black/Black",
+    "url": "https://vallgatan12.com/en/products/arcteryx-norvan-ld-4-gtx-shoes-m-blackblack",
+    "source": "Vallgatan 12 - Page 1"
+  },
   "https://vallgatan12.com/en/policies/privacy-policy": {
     "name": "Privacy Policy",
     "url": "https://vallgatan12.com/en/policies/privacy-policy",
@@ -239,6 +239,16 @@
     "url": "https://vallgatan12.com/en/products/arcteryx-mantis-1-waist-pack-runesea-salt",
     "source": "Vallgatan 12 - Page 2"
   },
+  "https://vallgatan12.com/en/products/arcteryx-sylan-2-m-shoes-graphitegraphite": {
+    "name": "Sylan 2 M Shoes Graphite/Graphite",
+    "url": "https://vallgatan12.com/en/products/arcteryx-sylan-2-m-shoes-graphitegraphite",
+    "source": "Vallgatan 12 - Page 2"
+  },
+  "https://vallgatan12.com/en/products/arcteryx-kragg-shoes-m-runeblack": {
+    "name": "Kragg Shoes M Rune/Black",
+    "url": "https://vallgatan12.com/en/products/arcteryx-kragg-shoes-m-runeblack",
+    "source": "Vallgatan 12 - Page 2"
+  },
   "https://vallgatan12.com/en/products/arcteryx-mantis-1-waist-pack-24k-black": {
     "name": "Mantis 1 Waist Pack 24K Black",
     "url": "https://vallgatan12.com/en/products/arcteryx-mantis-1-waist-pack-24k-black",
@@ -264,19 +274,9 @@
     "url": "https://vallgatan12.com/en/products/arcteryx-beta-jacket-m-black",
     "source": "Vallgatan 12 - Page 2"
   },
-  "https://vallgatan12.com/en/products/arcteryx-kragg-shoes-m-runeblack": {
-    "name": "Kragg Shoes M Rune/Black",
-    "url": "https://vallgatan12.com/en/products/arcteryx-kragg-shoes-m-runeblack",
-    "source": "Vallgatan 12 - Page 2"
-  },
-  "https://vallgatan12.com/en/products/arcteryx-norvan-ld-4-gtx-shoes-m-blackblack": {
-    "name": "Norvan Ld 4 Gtx Shoes M Black/Black",
-    "url": "https://vallgatan12.com/en/products/arcteryx-norvan-ld-4-gtx-shoes-m-blackblack",
-    "source": "Vallgatan 12 - Page 2"
-  },
-  "https://vallgatan12.com/en/products/arcteryx-sylan-2-m-shoes-graphitegraphite": {
-    "name": "Sylan 2 M Shoes Graphite/Graphite",
-    "url": "https://vallgatan12.com/en/products/arcteryx-sylan-2-m-shoes-graphitegraphite",
+  "https://vallgatan12.com/en/products/arcteryx-satoro-merino-toque-mongooseblack": {
+    "name": "Satoro Merino Toque Mongoose/Black",
+    "url": "https://vallgatan12.com/en/products/arcteryx-satoro-merino-toque-mongooseblack",
     "source": "Vallgatan 12 - Page 2"
   },
   "https://vallgatan12.com/en/products/arcteryx-bird-head-toque-lt-renegaderose": {
@@ -492,77 +492,77 @@
   "https://labelsfashion.com/products/thorium-hdy-m-x000010657-seasalt": {
     "name": "Thorium Hoody M",
     "url": "https://labelsfashion.com/products/thorium-hdy-m-x000010657-seasalt",
-    "source": "Labels Fashion - Page 2"
+    "source": "Labels Fashion - Page 1"
   },
   "https://labelsfashion.com/products/therme-down-jkt-m-x000009915-black": {
     "name": "Therme Down Jacket M",
     "url": "https://labelsfashion.com/products/therme-down-jkt-m-x000009915-black",
-    "source": "Labels Fashion - Page 2"
+    "source": "Labels Fashion - Page 1"
   },
   "https://labelsfashion.com/products/kragg-ctn-ls-x000009714-24k-black": {
     "name": "Kragg Cotton Ls",
     "url": "https://labelsfashion.com/products/kragg-ctn-ls-x000009714-24k-black",
-    "source": "Labels Fashion - Page 2"
+    "source": "Labels Fashion - Page 1"
   },
   "https://labelsfashion.com/products/bird-word-tq-x000010979-orca": {
     "name": "Bird Word Torque",
     "url": "https://labelsfashion.com/products/bird-word-tq-x000010979-orca",
-    "source": "Labels Fashion - Page 2"
+    "source": "Labels Fashion - Page 1"
   },
   "https://labelsfashion.com/products/bird-head-tq-x000006756-ltrn-apro": {
     "name": "Bird Head Torque",
     "url": "https://labelsfashion.com/products/bird-head-tq-x000006756-ltrn-apro",
-    "source": "Labels Fashion - Page 2"
+    "source": "Labels Fashion - Page 1"
   },
   "https://labelsfashion.com/products/beta-jkt-m-x000010868-seasalt": {
     "name": "Beta Jacket M",
     "url": "https://labelsfashion.com/products/beta-jkt-m-x000010868-seasalt",
-    "source": "Labels Fashion - Page 2"
+    "source": "Labels Fashion - Page 1"
   },
   "https://labelsfashion.com/products/kyanite-hdy-m-x000008446-black": {
     "name": "Kyanite Hoody M",
     "url": "https://labelsfashion.com/products/kyanite-hdy-m-x000008446-black",
-    "source": "Labels Fashion - Page 2"
+    "source": "Labels Fashion - Page 1"
   },
   "https://labelsfashion.com/products/gamma-pant-m-x000010481-black-1": {
     "name": "Gamma Pant M",
     "url": "https://labelsfashion.com/products/gamma-pant-m-x000010481-black-1",
-    "source": "Labels Fashion - Page 2"
+    "source": "Labels Fashion - Page 1"
   },
   "https://labelsfashion.com/products/beta-jkt-m-x000010868-black": {
     "name": "Beta Jacket M",
     "url": "https://labelsfashion.com/products/beta-jkt-m-x000010868-black",
-    "source": "Labels Fashion - Page 2"
+    "source": "Labels Fashion - Page 1"
   },
   "https://labelsfashion.com/products/beta-ar-jkt-m-x000011062-cloudvoid": {
     "name": "Beta Ar Jacket M",
     "url": "https://labelsfashion.com/products/beta-ar-jkt-m-x000011062-cloudvoid",
-    "source": "Labels Fashion - Page 2"
+    "source": "Labels Fashion - Page 1"
   },
   "https://labelsfashion.com/products/atom-vst-m-x000009559-black": {
     "name": "Atom Vest M",
     "url": "https://labelsfashion.com/products/atom-vst-m-x000009559-black",
-    "source": "Labels Fashion - Page 2"
+    "source": "Labels Fashion - Page 1"
   },
   "https://labelsfashion.com/products/atom-hdy-m-x000009556-black-1": {
     "name": "Atom Hoody M",
     "url": "https://labelsfashion.com/products/atom-hdy-m-x000009556-black-1",
-    "source": "Labels Fashion - Page 2"
+    "source": "Labels Fashion - Page 1"
   },
   "https://labelsfashion.com/products/atom-hdy-m-x000009556-black": {
     "name": "Atom Hoody M",
     "url": "https://labelsfashion.com/products/atom-hdy-m-x000009556-black",
-    "source": "Labels Fashion - Page 2"
+    "source": "Labels Fashion - Page 1"
   },
   "https://labelsfashion.com/products/kragg-slctn-brd-ss-m-x00000953-5015-white-light-black": {
     "name": "Kragg SS Tee",
     "url": "https://labelsfashion.com/products/kragg-slctn-brd-ss-m-x00000953-5015-white-light-black",
-    "source": "Labels Fashion - Page 2"
+    "source": "Labels Fashion - Page 1"
   },
   "https://labelsfashion.com/products/kragg-slctn-tl-ls-m-x00000953-7002-blk-arsk": {
     "name": "Kragg LS Tee",
     "url": "https://labelsfashion.com/products/kragg-slctn-tl-ls-m-x00000953-7002-blk-arsk",
-    "source": "Labels Fashion - Page 2"
+    "source": "Labels Fashion - Page 1"
   },
   "https://www.behindthepines.eu/products/frizmworks-wool-deck-zipup-cardigan-black": {
     "name": "frizmworks wool deck zipup cardigan black",
@@ -618,21 +618,6 @@
     "name": "40% Off",
     "url": "https://www.behindthepines.eu/products/patagonia-mens-light-gust-jacket-black",
     "source": "Behind the Pines - Page 2"
-  },
-  "https://graduatestore.fr/en/content/99-arc-teryx-collaborations": {
-    "name": "The Arc'Teryx collaborations",
-    "url": "https://graduatestore.fr/en/content/99-arc-teryx-collaborations",
-    "source": "Graduate Store"
-  },
-  "https://graduatestore.fr/en/content/98-notice-clothing-accessories-arcteryx": {
-    "name": "Our Opinion on Arc'Teryx Clothing and Accessories",
-    "url": "https://graduatestore.fr/en/content/98-notice-clothing-accessories-arcteryx",
-    "source": "Graduate Store"
-  },
-  "https://graduatestore.fr/en/content/96-how-does-arc-teryx-size": {
-    "name": "How does Arc'Teryx size ?",
-    "url": "https://graduatestore.fr/en/content/96-how-does-arc-teryx-size",
-    "source": "Graduate Store"
   },
   "https://www.liviosport.it/en/content/10-shops": {
     "name": "Our Shops",
