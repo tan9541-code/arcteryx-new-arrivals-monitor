@@ -59,11 +59,6 @@
     "url": "https://vallgatan12.com/en/products/arcteryx-squamish-hoody-m-blurple",
     "source": "Vallgatan 12 - Page 1"
   },
-  "https://vallgatan12.com/en/products/arcteryx-atom-hoody-m-mongoosebracken": {
-    "name": "Atom Hoody M Mongoose/Bracken",
-    "url": "https://vallgatan12.com/en/products/arcteryx-atom-hoody-m-mongoosebracken",
-    "source": "Vallgatan 12 - Page 1"
-  },
   "https://vallgatan12.com/en/products/arcteryx-beta-jacket-m-mongoose": {
     "name": "Beta Jacket M Mongoose",
     "url": "https://vallgatan12.com/en/products/arcteryx-beta-jacket-m-mongoose",
@@ -139,11 +134,6 @@
     "url": "https://vallgatan12.com/en/products/arcteryx-kragg-cotton-lithographica-ss-m-black",
     "source": "Vallgatan 12 - Page 1"
   },
-  "https://vallgatan12.com/en/products/arcteryx-kragg-sl-cotton-bird-tile-ls-m-blackarctic-silk": {
-    "name": "Kragg SL Cotton Bird Tile LS M Black/Arctic Silk",
-    "url": "https://vallgatan12.com/en/products/arcteryx-kragg-sl-cotton-bird-tile-ls-m-blackarctic-silk",
-    "source": "Vallgatan 12 - Page 1"
-  },
   "https://vallgatan12.com/en/products/arcteryx-gamma-lightweight-hoody-m-dk-stratus": {
     "name": "Gamma Lightweight Hoody M Dk Stratus",
     "url": "https://vallgatan12.com/en/products/arcteryx-gamma-lightweight-hoody-m-dk-stratus",
@@ -184,6 +174,16 @@
     "url": "https://vallgatan12.com/en/products/arcteryx-norvan-ld-4-gtx-shoes-m-blackblack",
     "source": "Vallgatan 12 - Page 1"
   },
+  "https://vallgatan12.com/en/products/arcteryx-cronin-cotton-pant-m-black": {
+    "name": "Cronin Cotton Pant M Black",
+    "url": "https://vallgatan12.com/en/products/arcteryx-cronin-cotton-pant-m-black",
+    "source": "Vallgatan 12 - Page 1"
+  },
+  "https://vallgatan12.com/en/products/arcteryx-squamish-hoody-w-mongoose": {
+    "name": "Squamish Hoody W Mongoose",
+    "url": "https://vallgatan12.com/en/products/arcteryx-squamish-hoody-w-mongoose",
+    "source": "Vallgatan 12 - Page 1"
+  },
   "https://vallgatan12.com/en/policies/privacy-policy": {
     "name": "Privacy Policy",
     "url": "https://vallgatan12.com/en/policies/privacy-policy",
@@ -197,16 +197,6 @@
   "https://vallgatan12.com/en/policies/terms-of-service": {
     "name": "Terms of Use",
     "url": "https://vallgatan12.com/en/policies/terms-of-service",
-    "source": "Vallgatan 12 - Page 2"
-  },
-  "https://vallgatan12.com/en/products/arcteryx-cronin-cotton-pant-m-black": {
-    "name": "Cronin Cotton Pant M Black",
-    "url": "https://vallgatan12.com/en/products/arcteryx-cronin-cotton-pant-m-black",
-    "source": "Vallgatan 12 - Page 2"
-  },
-  "https://vallgatan12.com/en/products/arcteryx-squamish-hoody-w-mongoose": {
-    "name": "Squamish Hoody W Mongoose",
-    "url": "https://vallgatan12.com/en/products/arcteryx-squamish-hoody-w-mongoose",
     "source": "Vallgatan 12 - Page 2"
   },
   "https://vallgatan12.com/en/products/arcteryx-squamish-hoody-m-black-sapphire": {
