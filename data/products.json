@@ -374,11 +374,6 @@
     "url": "https://labelsfashion.com/products/therme-down-jkt-m-x000009915-mongoose",
     "source": "Labels Fashion - Page 1"
   },
-  "https://labelsfashion.com/products/mantis-1-wpk-x000009234-24k-black": {
-    "name": "Mantis 1 Waist Pack",
-    "url": "https://labelsfashion.com/products/mantis-1-wpk-x000009234-24k-black",
-    "source": "Labels Fashion - Page 1"
-  },
   "https://labelsfashion.com/products/kyanite-hdy-m-x000008446-cloud": {
     "name": "Kyanite Hoody M",
     "url": "https://labelsfashion.com/products/kyanite-hdy-m-x000008446-cloud",
@@ -502,6 +497,11 @@
   "https://labelsfashion.com/products/atom-vst-m-x000009559-mongoose": {
     "name": "Atom Vest M",
     "url": "https://labelsfashion.com/products/atom-vst-m-x000009559-mongoose",
+    "source": "Labels Fashion - Page 1"
+  },
+  "https://labelsfashion.com/products/mantis-1-wpk-x000009234-24k-black": {
+    "name": "Mantis 1 Waist Pack",
+    "url": "https://labelsfashion.com/products/mantis-1-wpk-x000009234-24k-black",
     "source": "Labels Fashion - Page 1"
   },
   "https://labelsfashion.com/products/kyanite-hdy-m-x000008446-black": {
