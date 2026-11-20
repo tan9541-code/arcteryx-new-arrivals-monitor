@@ -394,6 +394,11 @@
     "url": "https://lelabostore.com/en/policies/refund-policy",
     "source": "Le Labo Store"
   },
+  "https://labelsfashion.com/products/macai-down-jkt-m-x000010942-black": {
+    "name": "Macai Down Jacket M",
+    "url": "https://labelsfashion.com/products/macai-down-jkt-m-x000010942-black",
+    "source": "Labels Fashion - Page 1"
+  },
   "https://labelsfashion.com/products/macai-down-jkt-m-x000010942-dark-jade-mongoose": {
     "name": "Macai Down Jacket M",
     "url": "https://labelsfashion.com/products/macai-down-jkt-m-x000010942-dark-jade-mongoose",
@@ -407,6 +412,11 @@
   "https://labelsfashion.com/products/kyanite-hdy-m-x000008446-cloud": {
     "name": "Kyanite Hoody M",
     "url": "https://labelsfashion.com/products/kyanite-hdy-m-x000008446-cloud",
+    "source": "Labels Fashion - Page 1"
+  },
+  "https://labelsfashion.com/products/beta-jkt-m-x000010868-black": {
+    "name": "Beta Jacket M",
+    "url": "https://labelsfashion.com/products/beta-jkt-m-x000010868-black",
     "source": "Labels Fashion - Page 1"
   },
   "https://labelsfashion.com/products/beta-ar-jkt-m-x000011062-nucl-lrch": {
@@ -447,11 +457,6 @@
   "https://labelsfashion.com/products/beta-jacket-x00001086-mongoose": {
     "name": "Beta Jacket",
     "url": "https://labelsfashion.com/products/beta-jacket-x00001086-mongoose",
-    "source": "Labels Fashion - Page 1"
-  },
-  "https://labelsfashion.com/products/macai-down-jkt-m-x000010942-black": {
-    "name": "Macai Down Jacket M",
-    "url": "https://labelsfashion.com/products/macai-down-jkt-m-x000010942-black",
     "source": "Labels Fashion - Page 1"
   },
   "https://labelsfashion.com/products/kragg-ctn-ls-m-x000009714-dark-jade": {
@@ -547,11 +552,6 @@
   "https://labelsfashion.com/products/emblem-fleece-jgr-m-x000010393-black": {
     "name": "Emblem Fleece Jogger M",
     "url": "https://labelsfashion.com/products/emblem-fleece-jgr-m-x000010393-black",
-    "source": "Labels Fashion - Page 1"
-  },
-  "https://labelsfashion.com/products/beta-jkt-m-x000010868-black": {
-    "name": "Beta Jacket M",
-    "url": "https://labelsfashion.com/products/beta-jkt-m-x000010868-black",
     "source": "Labels Fashion - Page 1"
   },
   "https://labelsfashion.com/products/beta-ar-jkt-m-x000011062-cloudvoid": {
@@ -678,50 +678,5 @@
     "name": "How does Arc'Teryx size ?",
     "url": "https://graduatestore.fr/en/content/96-how-does-arc-teryx-size",
     "source": "Graduate Store"
-  },
-  "https://www.liviosport.it/en/content/10-shops": {
-    "name": "Our Shops",
-    "url": "https://www.liviosport.it/en/content/10-shops",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/9-privacy-policy": {
-    "name": "Privacy Policy",
-    "url": "https://www.liviosport.it/en/content/9-privacy-policy",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/1-delivery": {
-    "name": "Delivery",
-    "url": "https://www.liviosport.it/en/content/1-delivery",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/5-secure-payment": {
-    "name": "Secure Payment",
-    "url": "https://www.liviosport.it/en/content/5-secure-payment",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/3-terms-of-use": {
-    "name": "General Conditions of Sale",
-    "url": "https://www.liviosport.it/en/content/3-terms-of-use",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/12-size-guide": {
-    "name": "Size Guide",
-    "url": "https://www.liviosport.it/en/content/12-size-guide",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/6-return-policy": {
-    "name": "Return",
-    "url": "https://www.liviosport.it/en/content/6-return-policy",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/2-legal": {
-    "name": "Legal Notes",
-    "url": "https://www.liviosport.it/en/content/2-legal",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/it/content/13-credits": {
-    "name": "Credits",
-    "url": "https://www.liviosport.it/it/content/13-credits",
-    "source": "Livio Sport - Page 4"
   }
 }
