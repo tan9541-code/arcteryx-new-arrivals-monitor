@@ -379,11 +379,6 @@
     "url": "https://lelabostore.com/en/products/arcteryx-konseal-m-black-trousers",
     "source": "Le Labo Store"
   },
-  "https://lelabostore.com/en/products/arcteryx-tour-de-cou-satoro-black": {
-    "name": "TOUR DE COU SATORO BLACK",
-    "url": "https://lelabostore.com/en/products/arcteryx-tour-de-cou-satoro-black",
-    "source": "Le Labo Store"
-  },
   "https://lelabostore.com/en/policies/terms-of-sale": {
     "name": "Terms and conditions",
     "url": "https://lelabostore.com/en/policies/terms-of-sale",
@@ -643,50 +638,5 @@
     "name": "Digital gift card",
     "url": "https://www.behindthepines.eu/products/behind-the-pines-giftcard",
     "source": "Behind the Pines - Page 2"
-  },
-  "https://www.liviosport.it/en/content/10-shops": {
-    "name": "Our Shops",
-    "url": "https://www.liviosport.it/en/content/10-shops",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/9-privacy-policy": {
-    "name": "Privacy Policy",
-    "url": "https://www.liviosport.it/en/content/9-privacy-policy",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/1-delivery": {
-    "name": "Delivery",
-    "url": "https://www.liviosport.it/en/content/1-delivery",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/5-secure-payment": {
-    "name": "Secure Payment",
-    "url": "https://www.liviosport.it/en/content/5-secure-payment",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/3-terms-of-use": {
-    "name": "General Conditions of Sale",
-    "url": "https://www.liviosport.it/en/content/3-terms-of-use",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/12-size-guide": {
-    "name": "Size Guide",
-    "url": "https://www.liviosport.it/en/content/12-size-guide",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/6-return-policy": {
-    "name": "Return",
-    "url": "https://www.liviosport.it/en/content/6-return-policy",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/2-legal": {
-    "name": "Legal Notes",
-    "url": "https://www.liviosport.it/en/content/2-legal",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/it/content/13-credits": {
-    "name": "Credits",
-    "url": "https://www.liviosport.it/it/content/13-credits",
-    "source": "Livio Sport - Page 4"
   }
 }
