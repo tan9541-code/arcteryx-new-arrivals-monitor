@@ -638,5 +638,80 @@
     "name": "Digital gift card",
     "url": "https://www.behindthepines.eu/products/behind-the-pines-giftcard",
     "source": "Behind the Pines - Page 2"
+  },
+  "https://graduatestore.fr/en/jacket/32177-arc-teryx-gamma-mx-hoodie-dark-jade.html": {
+    "name": "SOLD OUT",
+    "url": "https://graduatestore.fr/en/jacket/32177-arc-teryx-gamma-mx-hoodie-dark-jade.html",
+    "source": "Graduate Store"
+  },
+  "https://graduatestore.fr/en/headwear/32109-arc-teryx-bird-head-toque-sea-salt.html": {
+    "name": "SOLD OUT",
+    "url": "https://graduatestore.fr/en/headwear/32109-arc-teryx-bird-head-toque-sea-salt.html",
+    "source": "Graduate Store"
+  },
+  "https://graduatestore.fr/en/sneakers/31188-arc-teryx-norvan-ld-4-gtx-black-black.html": {
+    "name": "SOLD OUT",
+    "url": "https://graduatestore.fr/en/sneakers/31188-arc-teryx-norvan-ld-4-gtx-black-black.html",
+    "source": "Graduate Store"
+  },
+  "https://graduatestore.fr/en/content/99-arc-teryx-collaborations": {
+    "name": "The Arc'Teryx collaborations",
+    "url": "https://graduatestore.fr/en/content/99-arc-teryx-collaborations",
+    "source": "Graduate Store"
+  },
+  "https://graduatestore.fr/en/content/98-notice-clothing-accessories-arcteryx": {
+    "name": "Our Opinion on Arc'Teryx Clothing and Accessories",
+    "url": "https://graduatestore.fr/en/content/98-notice-clothing-accessories-arcteryx",
+    "source": "Graduate Store"
+  },
+  "https://graduatestore.fr/en/content/96-how-does-arc-teryx-size": {
+    "name": "How does Arc'Teryx size ?",
+    "url": "https://graduatestore.fr/en/content/96-how-does-arc-teryx-size",
+    "source": "Graduate Store"
+  },
+  "https://www.liviosport.it/en/content/10-shops": {
+    "name": "Our Shops",
+    "url": "https://www.liviosport.it/en/content/10-shops",
+    "source": "Livio Sport - Page 4"
+  },
+  "https://www.liviosport.it/en/content/9-privacy-policy": {
+    "name": "Privacy Policy",
+    "url": "https://www.liviosport.it/en/content/9-privacy-policy",
+    "source": "Livio Sport - Page 4"
+  },
+  "https://www.liviosport.it/en/content/1-delivery": {
+    "name": "Delivery",
+    "url": "https://www.liviosport.it/en/content/1-delivery",
+    "source": "Livio Sport - Page 4"
+  },
+  "https://www.liviosport.it/en/content/5-secure-payment": {
+    "name": "Secure Payment",
+    "url": "https://www.liviosport.it/en/content/5-secure-payment",
+    "source": "Livio Sport - Page 4"
+  },
+  "https://www.liviosport.it/en/content/3-terms-of-use": {
+    "name": "General Conditions of Sale",
+    "url": "https://www.liviosport.it/en/content/3-terms-of-use",
+    "source": "Livio Sport - Page 4"
+  },
+  "https://www.liviosport.it/en/content/12-size-guide": {
+    "name": "Size Guide",
+    "url": "https://www.liviosport.it/en/content/12-size-guide",
+    "source": "Livio Sport - Page 4"
+  },
+  "https://www.liviosport.it/en/content/6-return-policy": {
+    "name": "Return",
+    "url": "https://www.liviosport.it/en/content/6-return-policy",
+    "source": "Livio Sport - Page 4"
+  },
+  "https://www.liviosport.it/en/content/2-legal": {
+    "name": "Legal Notes",
+    "url": "https://www.liviosport.it/en/content/2-legal",
+    "source": "Livio Sport - Page 4"
+  },
+  "https://www.liviosport.it/it/content/13-credits": {
+    "name": "Credits",
+    "url": "https://www.liviosport.it/it/content/13-credits",
+    "source": "Livio Sport - Page 4"
   }
 }
