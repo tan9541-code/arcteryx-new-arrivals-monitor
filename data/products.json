@@ -164,11 +164,6 @@
     "url": "https://vallgatan12.com/en/products/arcteryx-squamish-hoody-m-black-sapphire",
     "source": "Vallgatan 12 - Page 1"
   },
-  "https://vallgatan12.com/en/products/arcteryx-silex-cap-24k-black": {
-    "name": "Silex Cap 24K Black",
-    "url": "https://vallgatan12.com/en/products/arcteryx-silex-cap-24k-black",
-    "source": "Vallgatan 12 - Page 1"
-  },
   "https://vallgatan12.com/en/products/arcteryx-kragg-cotton-little-bird-crew-ss-w-mongoose": {
     "name": "Kragg Cotton Little Bird Crew SS W Mongoose",
     "url": "https://vallgatan12.com/en/products/arcteryx-kragg-cotton-little-bird-crew-ss-w-mongoose",
@@ -184,6 +179,11 @@
     "url": "https://vallgatan12.com/en/products/arcteryx-sylan-2-m-shoes-graphitegraphite",
     "source": "Vallgatan 12 - Page 1"
   },
+  "https://vallgatan12.com/en/products/arcteryx-squamish-hoody-m-black": {
+    "name": "Squamish Hoody M Black",
+    "url": "https://vallgatan12.com/en/products/arcteryx-squamish-hoody-m-black",
+    "source": "Vallgatan 12 - Page 1"
+  },
   "https://vallgatan12.com/en/policies/privacy-policy": {
     "name": "Privacy Policy",
     "url": "https://vallgatan12.com/en/policies/privacy-policy",
@@ -197,11 +197,6 @@
   "https://vallgatan12.com/en/policies/terms-of-service": {
     "name": "Terms of Use",
     "url": "https://vallgatan12.com/en/policies/terms-of-service",
-    "source": "Vallgatan 12 - Page 2"
-  },
-  "https://vallgatan12.com/en/products/arcteryx-squamish-hoody-m-black": {
-    "name": "Squamish Hoody M Black",
-    "url": "https://vallgatan12.com/en/products/arcteryx-squamish-hoody-m-black",
     "source": "Vallgatan 12 - Page 2"
   },
   "https://vallgatan12.com/en/products/arcteryx-kragg-cotton-lithographica-ss-m-black": {
@@ -763,50 +758,5 @@
     "name": "How does Arc'Teryx size ?",
     "url": "https://graduatestore.fr/en/content/96-how-does-arc-teryx-size",
     "source": "Graduate Store"
-  },
-  "https://www.liviosport.it/en/content/10-shops": {
-    "name": "Our Shops",
-    "url": "https://www.liviosport.it/en/content/10-shops",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/9-privacy-policy": {
-    "name": "Privacy Policy",
-    "url": "https://www.liviosport.it/en/content/9-privacy-policy",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/1-delivery": {
-    "name": "Delivery",
-    "url": "https://www.liviosport.it/en/content/1-delivery",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/5-secure-payment": {
-    "name": "Secure Payment",
-    "url": "https://www.liviosport.it/en/content/5-secure-payment",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/3-terms-of-use": {
-    "name": "General Conditions of Sale",
-    "url": "https://www.liviosport.it/en/content/3-terms-of-use",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/12-size-guide": {
-    "name": "Size Guide",
-    "url": "https://www.liviosport.it/en/content/12-size-guide",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/6-return-policy": {
-    "name": "Return",
-    "url": "https://www.liviosport.it/en/content/6-return-policy",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/en/content/2-legal": {
-    "name": "Legal Notes",
-    "url": "https://www.liviosport.it/en/content/2-legal",
-    "source": "Livio Sport - Page 4"
-  },
-  "https://www.liviosport.it/it/content/13-credits": {
-    "name": "Credits",
-    "url": "https://www.liviosport.it/it/content/13-credits",
-    "source": "Livio Sport - Page 4"
   }
 }
